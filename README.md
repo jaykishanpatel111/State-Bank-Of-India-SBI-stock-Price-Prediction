@@ -1,0 +1,2 @@
+# State-Bank-Of-India-SBI-stock-Price-Prediction
+We have taken the State Bank Of India (SBI) stock price dataset in this deep learning project. Using this dataset to predict the future stock price.  We will perform all the steps from Data gathering to Model deployment. During Model evaluation, we perform a LSTM(Long Short-Term Memory) model. We get 99% accuracy in this prediction. The difference between the actual stock price and the predicted stock price is 0.203₹. 
